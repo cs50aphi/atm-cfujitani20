@@ -20,7 +20,7 @@ public class CheckingAccount
         return checkAmount;
     }
 
-     // Add and subtract
+     // Withdraw and deposit
     public void withdrawcheck(double num)
     {
         checkAmount -= num;

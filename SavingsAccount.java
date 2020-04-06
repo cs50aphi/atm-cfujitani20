@@ -20,7 +20,7 @@ public class SavingsAccount
         return saveAmount;
     }
 
-    // Add and subtract
+    // Withdraw and Deposit and get balance
     public void withdrawsave(double num)
     {
         saveAmount -= num;
